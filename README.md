@@ -16,7 +16,8 @@
 - Object Oriented Programming (OOP)
 - SOLID Principles
 - ASP.NET CORE WEB API
-- ASP.NET MVC ADO.NET
+- ASP.NET MVC
+- ADO.NET
 - Language Integrated Query (LINQ)
 - Entity Framework Core
 - MS SQL Server
